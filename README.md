@@ -1,2 +1,2 @@
-# Algorithm-Workbench-13
+# Algorithm-Workbench
 This program is practice for drawing a circle in pygame
